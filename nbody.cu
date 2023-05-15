@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include <sdtio.h>
+#include <stdio.h>
 #include <time.h>
 #include <math.h>
 #include "vector.h"
